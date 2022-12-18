@@ -2,6 +2,9 @@ package com.practice;
 
 public class Chars {
 	public static void main(String[] args) {
+
+        System.out.print("sameer");
+
 //		Set<String> names = new TreeSet <>();
 //		names.add("sameer");
 //		names.add("amir");
