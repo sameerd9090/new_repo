@@ -1,6 +1,8 @@
 package com.practice;
 
 public class Employee {
+
+       This is an employee.
 	
 	private int empID;
 	private String empName;
